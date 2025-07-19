@@ -1,6 +1,6 @@
 # 🧠 March-C SRAM Fault Test
 
-SystemVerilog implementation of **March C** and **March X** memory test algorithms for detecting **stuck-at**, **transition**, and **coupling faults** in SRAM.
+SystemVerilog implementation of **March C** memory test algorithms for detecting **stuck-at**, **transition**, and **coupling faults** in SRAM.
 
 ---
 
